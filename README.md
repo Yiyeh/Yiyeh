@@ -41,3 +41,19 @@ Soy un 🧑‍💻 Técnico nivel superior en informática apasionado por la pro
 
 Ambos proyectos fueron desarrollados como método de aprendizaje y actualmente no cuentan con soporte, pero planeo retomar su desarrollo en el futuro con más conocimientos adquiridos.
 
+
+### 📝 Tarea de [Undefined Academy](https://undefined.academy/).
+
+
+| Comando | Descripción |
+| --- | --- |
+| `ls` | Lista los archivos y carpetas del directorio en el que estás ubicado. |
+| `cd` | Cambia de directorio. |
+| `mkdir` | Crea una carpeta. |
+| `rm` | Elimina archivos o directorios. |
+| `cp` | Copia un archivo o carpeta. |
+
+### 📝 Alias Utiles
+
+- **alias c='clear'** : Para limpiar la terminal.
+- **alias ..='cd ..'** : Para volver al directorio padre.
