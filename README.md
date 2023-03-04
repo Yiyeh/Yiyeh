@@ -2,6 +2,7 @@
 
 ## 📞 Información de Contacto
 - 📧 Email: [YiyehDev@gmail.com](mailto:YiyehDev@gmail.com)
+- 😎 Twitter: [twitter.com/_Yiyeh](https://twitter.com/_Yiyeh)
 - 💻 GitHub: [github.com/Yiyeh](https://github.com/Yiyeh)
 - 🕹️ Itch.io: [yiyeh.itch.io](https://yiyeh.itch.io/)
 
