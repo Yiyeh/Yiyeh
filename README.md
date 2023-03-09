@@ -13,11 +13,10 @@ Soy un 🧑‍💻 Técnico nivel superior en informática apasionado por la pro
 ## 🎓 Educación
 
 - 🏫 Técnico nivel superior en informática, Universidad Arturo Prat, Iquique, Chile.
-
-## 📓 Actualmente
-- [Bootcamp en undefined.academy](https://undefined.academy/)
-- [30 Días de JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/Spanish/readme.md)
-
+- Flutter: Tu guía completa de desarrollo para IOS y Android [**Certificado**](http://ude.my/UC-85b25c35-0d87-464f-adeb-5c2b0e52cb0c)
+- Flutter Intermedio: Diseños profesionales y animaciones [**Certificado**](http://ude.my/UC-828b7f19-49ed-4265-910e-189069137625)
+- [Bootcamp Full-Stack de Undefined Academy](https://undefined.academy/) **Cursando**
+- [30 Días de JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/Spanish/readme.md) **Cursando**
 
 ## 🛠️ Habilidades Técnicas
 
@@ -46,20 +45,3 @@ Soy un 🧑‍💻 Técnico nivel superior en informática apasionado por la pro
 - **Chile Miniapps:** Recopilación de información de interés público para los chilenos, como farmacias de turno, valor de divisas, agenda telefónica de servicios públicos o emergencias, clima, entre otras cosas. La aplicación está disponible en Google Play Store en [Google PlayStore](https://play.google.com/store/apps/details?id=com.YiyehDev.resources_chile).
 
 Ambos proyectos fueron desarrollados como método de aprendizaje y actualmente no cuentan con soporte, pero planeo retomar su desarrollo en el futuro con más conocimientos adquiridos.
-
-
-### 📝 Tarea de [Undefined Academy](https://undefined.academy/).
-
-
-| Comando | Descripción |
-| --- | --- |
-| `ls` | Lista los archivos y carpetas del directorio en el que estás ubicado. |
-| `cd` | Cambia de directorio. |
-| `mkdir` | Crea una carpeta. |
-| `rm` | Elimina archivos o directorios. |
-| `cp` | Copia un archivo o carpeta. |
-
-### 📝 Alias Utiles
-
-- **alias c='clear'** : Para limpiar la terminal.
-- **alias ..='cd ..'** : Para volver al directorio padre.
