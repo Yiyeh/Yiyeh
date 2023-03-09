@@ -14,6 +14,11 @@ Soy un 🧑‍💻 Técnico nivel superior en informática apasionado por la pro
 
 - 🏫 Técnico nivel superior en informática, Universidad Arturo Prat, Iquique, Chile.
 
+## 📓 Actualmente
+- [Bootcamp en undefined.academy](https://undefined.academy/)
+- [30 Días de JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/Spanish/readme.md)
+
+
 ## 🛠️ Habilidades Técnicas
 
 - 💻 Lenguajes de programación: JavaScript, PHP, DART, C#.
