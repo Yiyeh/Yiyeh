@@ -43,6 +43,6 @@ Soy un 🧑‍💻 Técnico nivel superior en informática apasionado por la pro
 - **Git Gud Aiming:** Juego para practicar la puntería desarrollado en Unreal Engine 4. Puedes encontrarlo en [Itch.io](https://yiyeh.itch.io/gitgud-aiming).
 
 - **Chile Miniapps:** Recopilación de información de interés público para los chilenos, como farmacias de turno, valor de divisas, agenda telefónica de servicios públicos o emergencias, clima, entre otras cosas. La aplicación está disponible en Google Play Store en [Google PlayStore](https://play.google.com/store/apps/details?id=com.YiyehDev.resources_chile).
-- **FlaiteGPT:** Una app desarrollada para aprender React, implementando la API de OpenAI. Puedes encontrarla en [flaitegpt.netlify.app](https://flaitegpt.netlify.app/).
+- **FlaiteGPT:** Una app desarrollada para aprender React, implementando la API de OpenAI. Puedes encontrarla en [FlaiteGTP](https://flaitegpt.netlify.app/).
 
 Ambos proyectos fueron desarrollados como método de aprendizaje y actualmente no cuentan con soporte, pero planeo retomar su desarrollo en el futuro con más conocimientos adquiridos.
