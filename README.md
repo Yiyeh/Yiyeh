@@ -21,7 +21,7 @@ Soy un 🧑‍💻 Técnico nivel superior en informática apasionado por la pro
 ## 🛠️ Habilidades Técnicas
 
 - 💻 Lenguajes de programación: JavaScript, PHP, DART, C#.
-- 🚀 Frameworks: Laravel, Flutter, Unity, Unreal Engine 5.
+- 🚀 Frameworks y librerias: Laravel, Flutter, Unity, React, Unreal Engine 5.
 - 🗃️ Bases de datos: MySQL.
 - 📚 Control de versiones: Git.
 
