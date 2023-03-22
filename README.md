@@ -45,4 +45,4 @@ Soy un 🧑‍💻 Técnico nivel superior en informática apasionado por la pro
 - **Chile Miniapps:** Recopilación de información de interés público para los chilenos, como farmacias de turno, valor de divisas, agenda telefónica de servicios públicos o emergencias, clima, entre otras cosas. La aplicación está disponible en Google Play Store en [Google PlayStore](https://play.google.com/store/apps/details?id=com.YiyehDev.resources_chile).
 - **FlaiteGPT:** Una app desarrollada para aprender React, implementando la API de OpenAI. Puedes encontrarla en [FlaiteGTP](https://flaitegpt.netlify.app/).
 
-Ambos proyectos fueron desarrollados como método de aprendizaje y actualmente no cuentan con soporte, pero planeo retomar su desarrollo en el futuro con más conocimientos adquiridos.
+- **Pomodoro App:** Un temporizador Pomodoro simple desarrollado para aprender la logica de estados en react, sirve para trabajar 25 minutos con descansos de 5 minutos, cada vez que hay un cambio entre trabajar y descansar hay un sonido **ding**, Puedes probarlo en [Pomodoro App](https://pomodoro-yiyeh.vercel.app/).
